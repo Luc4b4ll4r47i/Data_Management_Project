@@ -1,8 +1,6 @@
 # Reddit submissions and tweets analysis during "GameStop Saga"
 This repository contains the exam project of the "Data Management" course at the University of Milano-Bicocca.
 The 'scripts' folder contains the Python code.
-The 'data' folder contains the CSVs of the datasets downloaded from the network.
-Inside the 'data' folder there is also a 'from_db' folder containing the CSVs of the datasets obtained from database queries and used for analysis and views.
 
 The purpose of this project is to analyze whether the social networks Reddit and Twitter have really influenced GameStop's short squeeze.
 The interest is to look for some relationship between the different submissions made on the r/WallStreetBets page by users and the fluctuation of the GME share price, and some other link between the various tweets, of reference persons or not, and the same increase in the shares of the famous American video game retailer.
